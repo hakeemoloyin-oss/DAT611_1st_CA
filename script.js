@@ -7,3 +7,4 @@ function multiplyNumba (...arguments)
 console.log("The Result of the Multiplication is", multiplyNumba(4,5,7));
 console.log("The Result of the Multiplication is", multiplyNumba(1,2,9));
 console.log("The Result of the Multiplication is", multiplyNumba(9,5,8));
+console.log("The Result of the Multiplication is", multiplyNumba(3,3,3));
